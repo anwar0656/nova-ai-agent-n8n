@@ -51,7 +51,7 @@ n8n start
 
 ## 🧩 Workflow Overview
 
-![Workflow Screenshot](./screenshots/workflow-overview.png)
+![Workflow Screenshot](../pic-window-251018-2131-24.png)
 
 ---
 
