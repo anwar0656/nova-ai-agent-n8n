@@ -29,7 +29,7 @@ She uses **Groq’s LLaMA 3.3 model** for reasoning and a **PostgreSQL database*
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/nova-ai-agent-n8n.git
+git clone https://github.com/anwar0656/nova-ai-agent-n8n.git
 cd nova-ai-agent-n8n
 ```
 
